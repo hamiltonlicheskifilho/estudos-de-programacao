@@ -4,14 +4,14 @@
 # envolvendo o uso de módulos.
 # ==================================================
 
+# Imports
+from math import trunc, hypot, sin, cos, tan, radians
+
 # ==================================================
 # Exercício: Quebrando um número
 # Objetivo: Ler um número real e mostrar sua
 # porção inteira.
 # ==================================================
-
-# Import
-from math import trunc, hypot, sin, cos, tan, radians
 
 # Entrada de dados
 numero_real = float(input('Digite um valor: '))
