@@ -22,12 +22,10 @@ quantidade_letras_total = len(nome) - nome.count(' ')
 primeiro_nome = nome.split()[0]
 
 # Saída de dados
-print(
-    f'Seu nome em MAIÚSCULAS é: {maiusculas}',
-    f'Seu nome em MINÚSCULAS é: {minusculas}',
-    f'Seu nome tem ao todo {quantidade_letras_total} letras',
-    f'Seu primeiro nome é {primeiro_nome} e tem {len(primeiro_nome)} letras'
-)
+print(f'Seu nome em MAIÚSCULAS é: {maiusculas}')
+print(f'Seu nome em MINÚSCULAS é: {minusculas}')
+print(f'Seu nome tem ao todo {quantidade_letras_total} letras')
+print(f'Seu primeiro nome é {primeiro_nome} e tem {len(primeiro_nome)} letras')
 
 
 # ==================================================
@@ -36,8 +34,6 @@ print(
 # um dos dígitos separados.
 # ==================================================
 
-from time import sleep
-
 # Entrada de dados
 numero = int(input('Digite um número de 0 a 9999: '))
 
@@ -45,15 +41,12 @@ numero = int(input('Digite um número de 0 a 9999: '))
 num = str(numero).zfill(4)
 
 print(f'Analisando o número: {numero}...')
-sleep(2)
 
 # Saída de dados
-print(
-    f'Unidade: {num[3]}',
-    f'Dezena: {num[2]}',
-    f'Centena: {num[1]}',
-    f'Milhar: {num[0]}'
-)
+print(f'Unidade: {num[3]}')
+print(f'Dezena: {num[2]}')
+print(f'Centena: {num[1]}')
+print(f'Milhar: {num[0]}')
 
 
 # ==================================================
