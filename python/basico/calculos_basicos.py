@@ -1,4 +1,10 @@
 # ==================================================
+# Módulo: Calculos Básicos
+# Descrição: Exercícios de fundamentos em Python
+# envolvendo operações matemáticas.
+# ==================================================
+
+# ==================================================
 # Exercício: Média Aritmética
 # Objetivo: Ler duas notas e calcular a média
 # ==================================================
