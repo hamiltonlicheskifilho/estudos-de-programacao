@@ -1,3 +1,15 @@
-# estudos-de-programacao
+# Meu Portfólio de Estudos em Programação
 
-Este repositório reúne meus estudos e exercícios em programação, com foco principal em Python.  O objetivo é praticar lógica de programação, consolidar conceitos fundamentais da linguagem e acompanhar minha evolução ao longo do aprendizado.  Os códigos estão organizados por nível de dificuldade e possuem comentários explicando o raciocínio utilizado em cada exercício.
+## Sobre
+Repositório dedicado ao meu aprendizado em programação, desde os fundamentos até projetos complexos.
+
+## Python
+- **Básico**: Fundamentos da linguagem
+  - Cálculos e operações matemáticas
+  - Manipulação de strings e textos
+  - Uso de módulos e bibliotecas
+  - Estruturas de dados iniciais
+  - Lógica condicional básica
+
+## Objetivo
+Documentar minha evolução como desenvolvedor, mostrando desde os primeiros passos até a resolução de problemas complexos.
