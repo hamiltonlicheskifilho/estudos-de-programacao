@@ -13,6 +13,6 @@
    - Manipulação de dados
 
 ## Como navegar:
-- `/basico/` - Primeiros passos na linguagem
-- `/intermediario/` - Conceitos avançados (em breve)
+- `/fundamentos/` - Primeiros passos na linguagem
+- `/estruturas_de_controle/` - Condições e estruturas de repetições
 - `/projetos/` - Aplicações práticas (em breve)
