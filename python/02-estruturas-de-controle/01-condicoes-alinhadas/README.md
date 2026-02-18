@@ -1,4 +1,4 @@
-# Condições Básicas
+# Condições Alinhadas
 
 ## Objetivo
 Dominar condições alinhadas com uso de if, elif e else; Também reforçando assuntos já tratados nos fundamentos.

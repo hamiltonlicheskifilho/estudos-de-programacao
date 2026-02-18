@@ -1,4 +1,4 @@
-# Módulo Básico - Python
+# Fundamentos
 
 ## Conceitos aprendidos:
  - Variáveis e tipos de dados  
